@@ -1,0 +1,9 @@
+Logfile for pctsurfcon
+Wed Mar 13 04:15:02 UTC 2019
+setenv SUBJECTS_DIR /tmp/subjects
+cd /tmp/subjects/Yacyuk/scripts
+/usr/local/freesurfer/bin/pctsurfcon
+$Id: pctsurfcon,v 1.15 2016/02/12 21:43:15 zkaufman Exp $
+Linux 9b9c0862f954 4.15.0-45-generic #48~16.04.1-Ubuntu SMP Tue Jan 29 18:03:48 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+FREESURFER_HOME /usr/local/freesurfer
+Cleaning up

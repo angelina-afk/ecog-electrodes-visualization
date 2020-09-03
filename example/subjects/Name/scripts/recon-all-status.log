@@ -1,0 +1,76 @@
+status file for recon-all
+Tue Mar 12 21:10:53 UTC 2019
+#@# MotionCor Tue Mar 12 21:11:19 UTC 2019
+#@# Talairach Tue Mar 12 21:11:38 UTC 2019
+#@# Talairach Failure Detection Tue Mar 12 21:13:07 UTC 2019
+#@# Nu Intensity Correction Tue Mar 12 21:13:07 UTC 2019
+#@# Intensity Normalization Tue Mar 12 21:15:04 UTC 2019
+#@# Skull Stripping Tue Mar 12 21:17:13 UTC 2019
+#@# EM Registration Tue Mar 12 21:36:34 UTC 2019
+#@# CA Normalize Tue Mar 12 21:51:02 UTC 2019
+#@# CA Reg Tue Mar 12 21:52:37 UTC 2019
+#@# SubCort Seg Tue Mar 12 23:53:01 UTC 2019
+#@# Merge ASeg Wed Mar 13 00:43:23 UTC 2019
+#@# Intensity Normalization2 Wed Mar 13 00:43:23 UTC 2019
+#@# Mask BFS Wed Mar 13 00:46:18 UTC 2019
+#@# WM Segmentation Wed Mar 13 00:46:19 UTC 2019
+#@# Fill Wed Mar 13 00:48:21 UTC 2019
+#@# Tessellate lh Wed Mar 13 00:48:56 UTC 2019
+#@# Tessellate rh Wed Mar 13 00:49:00 UTC 2019
+#@# Smooth1 lh Wed Mar 13 00:49:05 UTC 2019
+#@# Smooth1 rh Wed Mar 13 00:49:09 UTC 2019
+#@# Inflation1 lh Wed Mar 13 00:49:13 UTC 2019
+#@# Inflation1 rh Wed Mar 13 00:49:39 UTC 2019
+#@# QSphere lh Wed Mar 13 00:50:06 UTC 2019
+#@# QSphere rh Wed Mar 13 00:52:57 UTC 2019
+#@# Fix Topology Copy lh Wed Mar 13 00:56:00 UTC 2019
+#@# Fix Topology Copy rh Wed Mar 13 00:56:00 UTC 2019
+#@# Fix Topology lh Wed Mar 13 00:56:00 UTC 2019
+#@# Fix Topology rh Wed Mar 13 01:10:55 UTC 2019
+#@# Make White Surf lh Wed Mar 13 01:25:32 UTC 2019
+#@# Make White Surf rh Wed Mar 13 01:29:40 UTC 2019
+#@# Smooth2 lh Wed Mar 13 01:33:39 UTC 2019
+#@# Smooth2 rh Wed Mar 13 01:33:43 UTC 2019
+#@# Inflation2 lh Wed Mar 13 01:33:48 UTC 2019
+#@# Inflation2 rh Wed Mar 13 01:34:13 UTC 2019
+#@# Curv .H and .K lh Wed Mar 13 01:34:40 UTC 2019
+#@# Curv .H and .K rh Wed Mar 13 01:35:45 UTC 2019
+#@# Curvature Stats lh Wed Mar 13 01:36:53 UTC 2019
+#@# Curvature Stats rh Wed Mar 13 01:36:56 UTC 2019
+#@# Sphere lh Wed Mar 13 01:36:59 UTC 2019
+#@# Sphere rh Wed Mar 13 01:57:43 UTC 2019
+#@# Surf Reg lh Wed Mar 13 02:26:09 UTC 2019
+#@# Surf Reg rh Wed Mar 13 03:01:36 UTC 2019
+#@# Jacobian white lh Wed Mar 13 03:40:54 UTC 2019
+#@# Jacobian white rh Wed Mar 13 03:40:56 UTC 2019
+#@# AvgCurv lh Wed Mar 13 03:40:57 UTC 2019
+#@# AvgCurv rh Wed Mar 13 03:40:58 UTC 2019
+#@# Cortical Parc lh Wed Mar 13 03:41:00 UTC 2019
+#@# Cortical Parc rh Wed Mar 13 03:41:10 UTC 2019
+#@# Make Pial Surf lh Wed Mar 13 03:41:20 UTC 2019
+#@# Make Pial Surf rh Wed Mar 13 03:53:12 UTC 2019
+#@# Surf Volume lh Wed Mar 13 04:04:45 UTC 2019
+#@# Surf Volume rh Wed Mar 13 04:04:47 UTC 2019
+#@# Cortical ribbon mask Wed Mar 13 04:04:50 UTC 2019
+#@# Parcellation Stats lh Wed Mar 13 04:11:01 UTC 2019
+#@# Parcellation Stats rh Wed Mar 13 04:11:46 UTC 2019
+#@# Cortical Parc 2 lh Wed Mar 13 04:12:32 UTC 2019
+#@# Cortical Parc 2 rh Wed Mar 13 04:12:46 UTC 2019
+#@# Parcellation Stats 2 lh Wed Mar 13 04:13:00 UTC 2019
+#@# Parcellation Stats 2 rh Wed Mar 13 04:13:23 UTC 2019
+#@# Cortical Parc 3 lh Wed Mar 13 04:13:47 UTC 2019
+#@# Cortical Parc 3 rh Wed Mar 13 04:13:57 UTC 2019
+#@# Parcellation Stats 3 lh Wed Mar 13 04:14:08 UTC 2019
+#@# Parcellation Stats 3 rh Wed Mar 13 04:14:31 UTC 2019
+#@# WM/GM Contrast lh Wed Mar 13 04:14:54 UTC 2019
+#@# WM/GM Contrast rh Wed Mar 13 04:15:02 UTC 2019
+#@# Relabel Hypointensities Wed Mar 13 04:15:10 UTC 2019
+#@# AParc-to-ASeg aparc Wed Mar 13 04:15:29 UTC 2019
+#@# AParc-to-ASeg a2009s Wed Mar 13 04:19:24 UTC 2019
+#@# AParc-to-ASeg DKTatlas Wed Mar 13 04:23:20 UTC 2019
+#@# APas-to-ASeg Wed Mar 13 04:27:16 UTC 2019
+#@# ASeg Stats Wed Mar 13 04:27:22 UTC 2019
+#@# WMParc Wed Mar 13 04:29:10 UTC 2019
+#@# BA_exvivo Labels lh Wed Mar 13 04:37:28 UTC 2019
+#@# BA_exvivo Labels rh Wed Mar 13 04:41:09 UTC 2019
+recon-all -s Yacyuk finished without error at Wed Mar 13 04:44:53 UTC 2019
